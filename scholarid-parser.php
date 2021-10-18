@@ -58,6 +58,9 @@
           color: white;
           border: none;
       }
+      input[type=submit]:hover{
+          cursor: pointer;
+      }
       .btn-block {
       margin-top: 10px;
       text-align: center;
